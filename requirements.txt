@@ -1,1 +1,2 @@
 streamlit-nightly===1.40.3.dev20241126
+watchdog===6.0.0
