@@ -1,1 +1,1 @@
-streamlit-nightly===1.40.2.dev20241117
+streamlit-nightly===1.40.3.dev20241126
